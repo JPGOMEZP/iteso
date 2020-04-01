@@ -1,2 +1,0 @@
-# iteso
-Practica Iteso
